@@ -1,1 +1,1 @@
-getenv <var name>
+getenv [var name]
